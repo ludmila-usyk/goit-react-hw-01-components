@@ -1,0 +1,22 @@
+
+body {
+    padding: 40px;
+    background-color: rgb(21, 88, 107);
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2 {
+    margin: 20px;
+    color: rgb(238, 250, 253);
+    text-align: center;
+  }
