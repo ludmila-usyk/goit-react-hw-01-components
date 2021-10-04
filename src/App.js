@@ -1,12 +1,12 @@
-import SocialProfile from "./task_1/socialProfile"
-import Statistics from "./task_2/Statistics"
-import FriendList from "./task_3/friendList"
-import TransavtionHistory from "./task_4/transactionHistory"
+import SocialProfile from "./components/SocialProfile/SocialProfile"
+import Statistics from "./components/Statistics/Statistics"
+import FriendList from "./components/FriendList/FriendList"
+import TransavtionHistory from "./components/TransavtionHistory/TransactionHistory"
 import styles from "./index.css"
-import user from "./task_1/user.json"
-import statsData from "./task_2/statistical-data.json"
-import friends from "./task_3/friends.json"
-import transavtions from "./task_4/transactions.json"
+import user from "./components/SocialProfile/user.json"
+import statsData from "./components/Statistics/statistical-data.json"
+import friends from "./components/FriendList/friends.json"
+import transavtions from "./components/TransavtionHistory/transactions.json"
 
 
 function App() {
